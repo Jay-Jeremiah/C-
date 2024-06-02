@@ -10,9 +10,18 @@ int main(){
 
     double num3 = 19.968; //double are also numbers with decimals.
 
+    float num4 = 35e4;
+
+    double num5 = 12e-4;
+
     cout << num1 << endl;
     cout << num2 << endl;
-    cout << num3;
+    cout << num3 << endl;
+    cout << num4 << endl;
+    cout << num5 << endl;
+    
+    
+
 
     return 0;
 }
