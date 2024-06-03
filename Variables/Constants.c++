@@ -6,7 +6,7 @@ int main(){
     //denoted with a const keyword
 
     const double pi = 3.14;
-    pi = 3.15;    // brings about an error
+    //pi = 3.15;    // brings about an error
 
     cout << pi << endl;
 
